@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name Battery)(type KiCad)(uri ${PSYSMOD}/fuses.pretty)(options "")(descr "fuses foots"))
+  (lib (name Fuses)(type KiCad)(uri ${PSYSMOD}/fuses.pretty)(options "")(descr "fuses foots"))
 )
